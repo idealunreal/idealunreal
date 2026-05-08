@@ -1,8 +1,4 @@
-# Hi, I'm IDEALUNREAL 👋
-
-> Python & JavaScript Developer | Frontend Enthusiast | Algorithm Lover | Lifelong Learner
-
----
+Python & JavaScript Developer | Frontend Enthusiast | Algorithm Lover | Lifelong Learner
 
 ## 💻 Tech Stack
 
@@ -22,10 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
 ## 🧮 Algorithm
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ccygm?site=us&theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Contest Rating" />
 </div>
----
