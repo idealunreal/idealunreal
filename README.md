@@ -1,5 +1,6 @@
-Lifelong Learner
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=100&lines=Hello World!,I+am A%F0%9F%91%8B;Python+%26+JS+Developer+%F0%9F%92%BB;Frontend+Enthusiast+%F0%9F%8E%A8;Algorithm+Lover+%F0%9F%A7%AE;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</h1>
 ## 💻 Tech Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
