@@ -13,7 +13,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/ccygm?site=us&theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Contest Rating" />
-</div>
