@@ -54,6 +54,19 @@ Currently sharpening my craft across frontend development, Python, and full-stac
 - Using Python for automation, tooling, and problem solving.
 - Growing into a developer who can design, build, debug, and ship with confidence.
 
+## LeetCode
+
+<div align="center">
+
+[![LeetCode Profile — idealunreal](https://img.shields.io/badge/LeetCode-idealunreal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/idealunreal/)
+
+<br />
+<br />
+
+<img src="https://leetcard.jacoblin.cool/idealunreal?theme=dark&font=source_code_pro&border=0&radius=15" alt="LeetCode problem-solving stats for idealunreal" />
+
+</div>
+
 ## GitHub Activity
 
 <div align="center">
